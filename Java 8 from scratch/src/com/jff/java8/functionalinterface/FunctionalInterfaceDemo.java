@@ -1,5 +1,7 @@
 package com.jff.java8.functionalinterface;
 
+import java.util.concurrent.Callable;
+
 @FunctionalInterface
 interface MyInterface {
 	public void method1();
@@ -54,6 +56,10 @@ interface EqualInterface {
 }
 
 public class FunctionalInterfaceDemo implements MyInterface {
+
+	Runnable runnable;
+	Callable callable;
+	Comparable comparable;
 
 	public static void main(String args[]) {
 		FunctionalInterfaceDemo obj = new FunctionalInterfaceDemo();

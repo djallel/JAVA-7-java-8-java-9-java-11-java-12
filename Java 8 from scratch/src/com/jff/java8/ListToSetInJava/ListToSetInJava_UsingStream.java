@@ -11,11 +11,18 @@ public class ListToSetInJava_UsingStream {
 
         // Creating a list of strings
         List<String> aList = Arrays.asList("Geeks", "for",
-                "GeeksQuiz", "GeeksforGeeks", "GFG");
+                "GeeksQuiz", "GeeksforGeeks", "GFG", "GFG", "GFG");
+
+        for (String x : aList){
+            System.out.println(aList);
+            System.out.println(x);
+    }
 
         Set<String> set = aList.stream().collect(Collectors.toSet());
 
-        for (String x : set)
+        for (String x : set){
+            System.out.println(set);
             System.out.println(x);
+    }
     }
 }
