@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA-7-java-8-java-9-java-11-java-12.iml" filepath="$PROJECT_DIR$/JAVA-7-java-8-java-9-java-11-java-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 12/Java 12.iml" filepath="$PROJECT_DIR$/Java 12/Java 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 7/Java 7.iml" filepath="$PROJECT_DIR$/Java 7/Java 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 8/Java 8.iml" filepath="$PROJECT_DIR$/Java 8/Java 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 8 from scratch/Java 8 from scratch.iml" filepath="$PROJECT_DIR$/Java 8 from scratch/Java 8 from scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPMS-Jlink/JPMS - Jlink/helloModule/helloModule.iml" filepath="$PROJECT_DIR$/JPMS-Jlink/JPMS - Jlink/helloModule/helloModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java 10/java 10.iml" filepath="$PROJECT_DIR$/java 10/java 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java 11/java 11.iml" filepath="$PROJECT_DIR$/java 11/java 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java 11 migration/java 11 migration.iml" filepath="$PROJECT_DIR$/java 11 migration/java 11 migration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java 9/java 9.iml" filepath="$PROJECT_DIR$/java 9/java 9.iml" />
+    </modules>
+  </component>
+</project>

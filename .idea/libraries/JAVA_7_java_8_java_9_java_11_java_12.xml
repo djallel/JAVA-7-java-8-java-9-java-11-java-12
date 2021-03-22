@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="JAVA-7-java-8-java-9-java-11-java-12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Java 7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java 10.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Java 12.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java 11.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java 11 migration.zip!/" />
+      <root url="jar://$PROJECT_DIR$/java 9.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JPMS Creating Module Using Eclipse.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JPMS-Jlink.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Java 8.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
